@@ -11,3 +11,5 @@
 
 ## Run
 - run：`$ python3 main.py`
+
+![ntub_student_score image](./ntub_student_score.png)
